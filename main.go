@@ -1,9 +1,8 @@
 package main
 
 import (
-	"log"
-
 	"acaturn_api/actions"
+	"log"
 )
 
 // main is the starting point for your Buffalo application.
