@@ -14,6 +14,7 @@ require (
 	github.com/gobuffalo/packr/v2 v2.6.0
 	github.com/gobuffalo/pop v4.11.6+incompatible
 	github.com/gobuffalo/suite v2.8.1+incompatible
+	github.com/gobuffalo/uuid v2.0.5+incompatible
 	github.com/gobuffalo/x v0.1.0
 	github.com/markbates/grift v1.1.0
 	github.com/rs/cors v1.7.0
