@@ -1,4 +1,4 @@
-package V1
+package version1_tests
 
 import (
 	"acaturn_api/actions"

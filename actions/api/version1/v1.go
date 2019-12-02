@@ -1,4 +1,4 @@
-package V1
+package version1
 
 import (
 	"github.com/gobuffalo/buffalo/render"
